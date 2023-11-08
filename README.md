@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @heysalvino
-
 # Jessica Salvino
 
 Full Stack Software Engineer • Tampa Bay, FL • [Email](mailto:salvinojessica@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jessica-salvino/)
