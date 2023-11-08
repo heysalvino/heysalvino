@@ -10,7 +10,7 @@ I take pride in merging my creative and technical talents to create high-quality
 
 ## Skills
 
-- **Languages:** Java, C#, VB.NET, JavaScript, TypeScript, SQL, MySQL, CSS, HTML
+- **Languages:** Java, C#, VB.NET, Kotlin, JavaScript, TypeScript, SQL, MySQL, CSS, HTML
 - **Frameworks:** Angular, React, DevExpress, ASP.Net, Spring, Spring Boot
 - **Technologies:** Git, Tortoise SVN, JBoss (Wildfly), Maven, Oracle DB, HeidiSQL, Figma
 
