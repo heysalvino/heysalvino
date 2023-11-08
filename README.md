@@ -2,6 +2,12 @@
 
 Full Stack Software Engineer • Tampa Bay, FL • [Email](mailto:salvinojessica@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jessica-salvino/)
 
+As an experienced Full Stack Software Engineer, I specialize in the development of web applications using a diverse skill set that includes Java, C#, VB.NET, ASP.NET, JavaScript, TypeScript, HTML, and CSS. My collaborative approach is evident in my ability to work closely with cross-functional teams, where I gather requirements, analyze user needs, and deliver robust software solutions that precisely align with client specifications.
+
+My academic journey includes a Bachelor of Fine Arts degree in Computer Science from Rollins College, where I graduated with honors and was honored with the Alonzo Rollins Scholarship. My passion for both creativity and technology is driven by a unique blend of disciplines. Additionally, I enriched my perspective through international study at Queen Mary University of London, fostering cultural diversity and an open-minded outlook.
+
+I take pride in merging my creative and technical talents to create high-quality solutions that cater to end-users' needs. My strong communication and collaboration skills shine in both team and individual settings. I maintain a perpetual thirst for learning, constantly seeking new skills and technologies to stay at the forefront of my field. I'm dedicated to being an effective and supportive team member, and I'm driven by a strong commitment to delivering exceptional results.
+
 ## Skills
 
 - **Languages:** Java, C#, VB.NET, JavaScript, TypeScript, SQL, MySQL, CSS, HTML
