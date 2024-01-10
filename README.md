@@ -28,7 +28,7 @@ Study Abroad Program Participant
 
 **Tenex Software Solutions, Tampa, Florida**  
 *Full Stack Software Engineer, Contract, Hybrid*  
-*05/2023-10/2023*
+*05/2023-11/2023*
 
 - Proficient in full-stack development, utilizing VB.NET, C#, JavaScript, HTML, CSS, ASP.NET to craft robust end-to-end software solutions for a modern election suite.
 - Collaborate closely with cross-functional teams to meticulously gather requirements, conduct user needs analysis, and engineer solutions that align precisely with client specifications.
